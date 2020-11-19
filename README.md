@@ -1,16 +1,17 @@
 ### Hi there 👋
 - 🔭 I’m currently working on<BR>
-<LI>
-  Flutter distance calculator.
-  </LI>
+<OL>
+  <li>Flutter distance calculator.</li>
+  </OL>
   
-- 🌱 I’m currently learning <LI>
+- 🌱 I’m currently learning 
+<OL>
   <LI>Agile Project Management
   <LI>Jira 
-  Flutter
-  Dart
+  <LI>Flutter
+  <LI>Dart
   Android 
-   </LI>
+   </OL>
 - 📫 How to reach me: Jim@jimbeers.com
 
 
