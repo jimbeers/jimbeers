@@ -1,10 +1,9 @@
-<Header>### Hi there 👋</Header>
-- 🔭 I’m currently working on<BR>
+### Hi there 👋<BR>
+  🔭 I’m currently working on<BR>
 <OL>
   <li>Flutter distance calculator.</li>
   </OL>
-  
-- 🌱 I’m currently learning 
+🌱 I’m currently learning  <BR>
 <OL>
   <LI>Agile Project Management
   <LI>Jira 
