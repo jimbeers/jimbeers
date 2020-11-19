@@ -4,13 +4,13 @@
   Flutter distance calculator.
   </LI>
   
-- 🌱 I’m currently learning ...
-  Agile Project Management
-  Jira 
+- 🌱 I’m currently learning <LI>
+  <LI>Agile Project Management
+  <LI>Jira 
   Flutter
   Dart
   Android 
-  
+   </LI>
 - 📫 How to reach me: Jim@jimbeers.com
 
 
