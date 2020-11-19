@@ -1,7 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on<BR>
+<LI>
   Flutter distance calculator.
-  
+  </LI>
   
 - 🌱 I’m currently learning ...
   Agile Project Management
