@@ -1,4 +1,19 @@
 ### Hi there 👋
+- 🔭 I’m currently working on ...
+  Flutter distance calculator.
+  
+  
+- 🌱 I’m currently learning ...
+  Agile Project Management
+  Jira 
+  Flutter
+  Dart
+  Android 
+  
+- 📫 How to reach me: Jim@jimbeers.com
+
+
+  
 
 <!--
 **jimbeers/jimbeers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
